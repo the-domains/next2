@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Next 2%]]></title>
+        <description><![CDATA[Next 2%]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 17:56:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>FINANCIAL DATA PREDICTION: ONLINE SOURCES</p>]]></description>
+            <link>undefinedfinancial-data-prediction-online-sources/index.html</link>
+            <guid isPermaLink="false">9cfb104c-8a2b-4eea-976c-f5fa18751929</guid>
+            <pubDate>Wed, 27 Apr 2016 17:56:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

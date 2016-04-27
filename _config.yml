@@ -1,0 +1,28 @@
+name: 'Next 2%'
+favicon: null
+layout_spectrum: 0.2534571106079966
+typography_spectrum: 0.8587945448234677
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8714491915889084
+  lightness: 0.3842401006259024
+  saturation: 0.9349137970712036
+  rhythmicContrast: 0.4609964976552874
+purpose: []

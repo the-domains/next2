@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Next 2%]]></title>
         <description><![CDATA[Next 2%]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/next2%/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 17:56:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 17:56:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/next2%/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About 200 Robo Advisors managed $21 billion in assets in July 2015, according to research firm Corporate Insight. Between April 2014 and July 2015, assets under discretionary control of the 11 leading online advisors grew 208% (Source: NerdWallet)</p>]]></description>
+            <link>https://thegrid.ai/next2%/about-200-robo-advisors-managed-dollar21-billion-in-assets-in-jul/index.html</link>
+            <guid isPermaLink="false">6f4824c4-adae-4067-8da3-d7aaf66d9254</guid>
+            <pubDate>Wed, 27 Apr 2016 17:56:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>FINANCIAL DATA PREDICTION: ONLINE SOURCES</p>]]></description>
-            <link>undefinedfinancial-data-prediction-online-sources/index.html</link>
+            <link>https://thegrid.ai/next2%/financial-data-prediction-online-sources/index.html</link>
             <guid isPermaLink="false">9cfb104c-8a2b-4eea-976c-f5fa18751929</guid>
             <pubDate>Wed, 27 Apr 2016 17:56:15 GMT</pubDate>
         </item>
